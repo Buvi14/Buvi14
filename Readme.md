@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Buvaneshkumar
 - 👀 I’m interested in developing Full stack projects using MERN/MEAN Stack
 - 🌱 I’m currently Working in React and learning new concepts on both front and backend.
-- 💞️ I’m looking to work with positive minded people and for product based companies
+- 💞️ I’m looking to work with positive minded people
 - 📫 Here is linkedin url and connect there... https://www.linkedin.com/in/buvankumar/
